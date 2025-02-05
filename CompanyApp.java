@@ -13,7 +13,7 @@ public class CompanyApp
     public static void main(String[] args) {
         Employee[] pear = new Employee[8];
 
-        //hi hi hi
+        //hi hi hi bomboclaat
 
         // Valid
         pear[0] = new EmployeeId("Jeve Stobs", "001-A", "04-01-76");
